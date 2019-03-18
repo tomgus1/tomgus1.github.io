@@ -96,12 +96,12 @@ th {
 }
 
 img { 
-  width: 25%; 
+  width: 100%; 
   height: auto; 
 }
 
-svg { 
-  width: 100%; 
+.social { 
+  width: 10%; 
   height: auto; 
 }
 
