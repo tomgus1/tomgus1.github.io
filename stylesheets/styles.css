@@ -97,7 +97,9 @@ th {
 
 img { 
   width: 100%; 
-  height: auto; 
+  height: auto;
+  border-radius: 25px;
+  display: inline-block;
 }
 
 .social { 
@@ -278,3 +280,4 @@ footer {
     color:#444;
   }
 }
+	
