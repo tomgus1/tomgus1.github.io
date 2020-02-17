@@ -108,12 +108,14 @@ img {
 }
 
 a svg:hover #github,
+a svg:hover #mastodon,
 a svg:hover #twitter,
 a svg:hover #linkedin {
 	fill: #39c
 }
 
 a svg #github,
+a svg #mastodon,
 a svg #twitter,
 a svg #linkedin { 
   transition: 200ms;
